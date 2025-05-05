@@ -3,7 +3,7 @@
 ---
 
 ## Introdução
-Eu sou **Arley Ribeiro**, Analista de Dados, e este relatório avalia o desempenho de quatro lojas do Sr. João, de 2020 a 2023, para recomendar qual deve ser vendida. A análise considera cinco métricas:
+Eu sou **Pedro Galiato**, Analista de Dados, e este relatório avalia o desempenho de quatro lojas do Sr. João, de 2020 a 2023, para recomendar qual deve ser vendida. A análise considera cinco métricas:
 
 - *Faturamento total*
 - *Vendas por categoria de produto*
